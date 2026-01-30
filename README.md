@@ -5,4 +5,4 @@ AquaDeVita klanı için özel olarak geliştirilmiş, modern klan yönetimini ve
 ## Proje Hakkında
 Bu proje, klan içi hiyerarşiyi, Savaş Odası (Voice) koordinasyonunu ve klan üyelerinin gelişim süreçlerini (Teçhizat/Gear) daha verimli yönetmek amacıyla inşa edilmiştir.
 **Durum:** Geliştirme süreci aktif olarak devam etmektedir. Yeni özellikler otomatik güncelleme sistemi ile düzenli olarak eklenecektir.
-> _Sürüm: v1.0.0 (Erken Erişim)_
+> _Sürüm: v1.0.0 - EarlyAccess_
